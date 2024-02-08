@@ -1,0 +1,15 @@
+C:\Users\Linkshot\Utilities\Projects\Saveblazers\bin\Release\net6.0\Saveblazers.exe
+C:\Users\Linkshot\Utilities\Projects\Saveblazers\bin\Release\net6.0\Saveblazers.deps.json
+C:\Users\Linkshot\Utilities\Projects\Saveblazers\bin\Release\net6.0\Saveblazers.runtimeconfig.json
+C:\Users\Linkshot\Utilities\Projects\Saveblazers\bin\Release\net6.0\Saveblazers.dll
+C:\Users\Linkshot\Utilities\Projects\Saveblazers\bin\Release\net6.0\Saveblazers.pdb
+C:\Users\Linkshot\Utilities\Projects\Saveblazers\obj\Release\net6.0\Saveblazers.csproj.AssemblyReference.cache
+C:\Users\Linkshot\Utilities\Projects\Saveblazers\obj\Release\net6.0\Saveblazers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linkshot\Utilities\Projects\Saveblazers\obj\Release\net6.0\Saveblazers.AssemblyInfoInputs.cache
+C:\Users\Linkshot\Utilities\Projects\Saveblazers\obj\Release\net6.0\Saveblazers.AssemblyInfo.cs
+C:\Users\Linkshot\Utilities\Projects\Saveblazers\obj\Release\net6.0\Saveblazers.csproj.CoreCompileInputs.cache
+C:\Users\Linkshot\Utilities\Projects\Saveblazers\obj\Release\net6.0\Saveblazers.dll
+C:\Users\Linkshot\Utilities\Projects\Saveblazers\obj\Release\net6.0\refint\Saveblazers.dll
+C:\Users\Linkshot\Utilities\Projects\Saveblazers\obj\Release\net6.0\Saveblazers.pdb
+C:\Users\Linkshot\Utilities\Projects\Saveblazers\obj\Release\net6.0\Saveblazers.genruntimeconfig.cache
+C:\Users\Linkshot\Utilities\Projects\Saveblazers\obj\Release\net6.0\ref\Saveblazers.dll
