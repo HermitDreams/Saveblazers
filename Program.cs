@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-// FF1 Spellbinder, for use with Final Fantasy Randomizer. IRC Script and C# port by Linkshot, 2018-2022
+// Saveblazer, a Caveblazers save file editor, by Linkshot, 2024
 using System.Data;
 using System.Diagnostics;
 using System.Text;
